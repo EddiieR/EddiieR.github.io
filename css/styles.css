@@ -154,4 +154,8 @@ hr {
   color: black;
 }
 
+.centre {
+  margin: auto;
+}
+
 window.onresise = function
